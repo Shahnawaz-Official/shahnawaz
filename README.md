@@ -6,10 +6,10 @@
 
 ## 👨‍💻 About Me
 
-* 🎓 Currently pursuing **BCA from Suresh Gyan Vihar University**
-* 🌱 Currently learning **MERN Stack Development**
-* 💻 Interested in **Backend Development**
-* 🚀 I love building real-world web applications
+*  Currently pursuing **BCA from Suresh Gyan Vihar University**
+*  Currently learning **MERN Stack Development**
+*  Interested in **Backend Development**
+*  I love building real-world web applications
 
 ---
 
@@ -35,15 +35,14 @@
 
 ---
 
-## 📂 Projects
+##  Projects
 
 * 📝 Blog Website with Admin Panel
-* 🌦️ Weather Application
-* 🛒 E-commerce Platform (MERN Stack)
-* 🎨 Portfolio Website
+* 🎨 Portfolio Website : https://shahnawaz-portfolio-three.vercel.app/
 
 ---
 
 ## 📫 Connect With Me
 
 * GitHub: https://github.com/Shahnawaz-Official
+* https://shahnawaz-portfolio-three.vercel.app/
