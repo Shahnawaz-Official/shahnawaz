@@ -27,7 +27,7 @@ I enjoy building modern web applications and continuously improving my coding sk
 </td>
 <td width="40%" align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="200"/>
+<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" height="200"/>
 
 </td>
 </tr>
